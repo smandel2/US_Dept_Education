@@ -13,7 +13,7 @@ The data was pulled down from the U.S. Department of Education's College Scoreca
 
 I dropped columns that had mostly null values and dropped rows with null values as well. Conducted some EDA on the dataset including the swarm plot below.
 
-![alt text](https://raw.github.com/smandel2/US_Dept_Education/master/images/graduation_cap.png)
+![alt text](https://raw.github.com/smandel2/US_Dept_Education/master/images/Swarmplot.png)
 
 
 Modeling and Predictions:
